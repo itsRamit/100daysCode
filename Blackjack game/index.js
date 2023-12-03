@@ -51,3 +51,4 @@ function newCard() {
 // console.log(c)
 // console.log(b)
 
+
