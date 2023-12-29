@@ -14,3 +14,8 @@ let f = document.getElementsByClassName("Classname") //to get all DOM elements b
 element.matches("CSS") //Checks if the element matches the selector or not
 element.closest("CSS") //Checks the nearest ancester with the selector
 element.contains("Element") //checks if "Element" present inside the element or not
+element.classList.add("new class") // can add a new class to a element
+element.classList.remove("class") // can remove a class to a element
+element.innerHTML // can access & modify the content inside the HTML element
+element.outerHTML // can access & modify the content of itself & as well as inside the HTML element
+element.innerText // can access & modify the text content inside the HTML element
