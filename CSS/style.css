@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(255, 0, 255);
+}
+
+button {
+    background-color: blueviolet;
+    color: aquamarine;
+}
+
+
+
+#box {
+    /* background-color: blue; */
+    /* color: aliceblue; */
+    text-decoration: black underline solid;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    line-height: 30px;  /* to set the height of each line */
+    text-transform: capitalize;
+}
+
+.box_Model{
+    height: 100px;
+    width: 100px;
+    background-color:aquamarine;
+    /*     width style color     */
+    border: 2px dashed black;
+    border-radius:10px;
+    text-align: center;
+    /*       top right bottom left     */
+    padding: 30px 0px 0px 0px;
+}
