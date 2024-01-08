@@ -1,0 +1,30 @@
+.topnav{
+    height: 60px;
+    width: 100%;
+    background-color: #0F1111;
+    align-items: center;
+}
+a{
+    color:white;
+    text-decoration: none;
+    margin-right:250px;
+}
+.active{
+    color:orange;
+    font-size: 25px;
+}
+button{
+    color: white;
+    background-color:#f08804;
+}
+.items{
+    height: 200px;
+    width:200px;
+    margin: 50px;
+    background-color: aquamarine;
+}
+footer{
+    height: 100px;
+    background-color: #0f1111;
+    text-align: center;
+}

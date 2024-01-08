@@ -31,3 +31,20 @@ button {
     /*       top right bottom left     */
     padding: 30px 0px 0px 0px;
 }
+
+.divbox{
+    margin-top: 100px;
+    height: 100px;
+    width: 100px;       /*   red green blue alpha*/
+    background-color: rgba(255,255,0,0.5);
+    border: 2px solid;
+    border-radius: 50%;
+}
+
+.display{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin:25px;
+    padding: 25px;
+}
